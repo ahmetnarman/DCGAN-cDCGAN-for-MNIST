@@ -30,7 +30,7 @@ For more information about the architecture and the results check [Report.pdf](R
 - Tensorflow
 - matplotlib
 
-Running the Jupyter notebooks on Google Colab, These dependencies are already satisfied.
+Running the Jupyter notebooks on Google Colab, these dependencies are already satisfied.
 
 ## Quick Guide
 
@@ -44,7 +44,7 @@ Running the Jupyter notebooks on Google Colab, These dependencies are already sa
 
 ### On your computer
 
-For this, you need to install the mentioned dependencies. Then, you can run either code provided in [/Python Scripts](/Python Scripts) folder.
+For this, you need to install the mentioned dependencies. Then, you can run either code provided in Python Scripts folder.
 
 ## References
 
