@@ -18,7 +18,7 @@ The cGAN model generates images conditioned on the image classes, which allows g
 
 ### Classifier and Inception Score for the cGAN
 
-An convolutional neural network was trained to classify MNIST images in the cGAN code. Using this softmax classifier, the inception score of the cGAN model was found. The architecture and parameters of the cGAN was tuned to yield a better inception score, thus better performance. The inception score for different architectures are shown below:
+A convolutional neural network was trained to classify MNIST images in the cGAN code. Using this softmax classifier, the inception score of the cGAN model was found. The architecture and parameters of the cGAN was tuned to yield a better inception score, thus better performance. The inception score for different architectures are shown below:
 
 <p align="center"><img src="Figures/IS_Table.PNG" width="65%" alt="" /></p>
 
